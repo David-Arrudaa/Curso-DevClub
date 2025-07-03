@@ -1,0 +1,48 @@
+    /* OBRIGATORIO ";"" */
+
+    /* para pegar toda a pagina */
+    *{
+        background: grey;
+    } 
+    
+    #titulo {
+        color: red;
+        font-size: 55px;
+    }
+
+    #paragrafo {
+        color: blue;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    #botao {
+        background: green;
+    }
+
+    #outro-botao {
+        background: chocolate;
+    }
+
+    .texto {
+        color: blue;
+        font-size: 40px;
+    }
+
+    .botao {
+        background: violet;
+        color: red;
+        font-weight: bold;
+    }
+
+    
+
+    /* .nomeclasse = para chamar a classe no css
+        #nomeid = para chamar o id no css
+    
+        Classe (classes) = A classe seria como um CEP. Ela serve para identificar varios elementos.
+        Ou sejam, varios elementos HTML podem usar a mesma classe, e conseguimos estilizalos no CSS
+        
+        ID (identificador unico) = Já o ID seria como seu CPF ou RG. Ele serve para identificar um elemento
+        Ou seja, voce so pode usar um ID especifico uma unica vez na sua pagina HTML
+        */
