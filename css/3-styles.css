@@ -1,0 +1,22 @@
+.box {
+    width: 50px;
+    height: 50px;
+    background: #ff1493;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.box-2 {
+    width: 50px;
+    height: 50px;
+    background-color: #9932cc;
+    margin: 10px;
+    border-radius: 10%;
+    padding: 10px;
+
+}
+
+/* margin é a distancia para outra div 
+    padding é a distancia da div para as bordas
+*/

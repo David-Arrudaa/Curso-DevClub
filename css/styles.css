@@ -1,18 +1,19 @@
     /* OBRIGATORIO ";"" */
 
     /* para pegar toda a pagina */
-    *{
+    * {
         background: grey;
-    } 
-    
+    }
+
     #titulo {
-        color: red;
-        font-size: 55px;
+        background: rgb(250, 248, 251);
+        color: rgb(0, 17, 9);
+        font-size: 5vh;
     }
 
     #paragrafo {
-        color: blue;
-        font-size: 20px;
+        color: #aaffaa;
+        font-size: 2vh;
         font-weight: bold;
     }
 
@@ -25,8 +26,8 @@
     }
 
     .texto {
-        color: blue;
-        font-size: 40px;
+        color: #ffffff;
+        font-size: 4vh;
     }
 
     .botao {
@@ -35,7 +36,30 @@
         font-weight: bold;
     }
 
-    
+    #teste {
+        font-size: 1.6vh;
+    }
+
+    .pai {
+        width: 50vh;
+        height: 50vh;
+        background: red;
+        color: #ffffff;
+        font-size: 3.2vh;
+
+
+    }
+
+    .filho {
+        color: #ffffff;
+        width: 50%;
+        height: 50%;
+        background: blue;
+        font-size: 0.5em;
+
+    }
+
+
 
     /* .nomeclasse = para chamar a classe no css
         #nomeid = para chamar o id no css

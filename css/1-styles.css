@@ -1,0 +1,18 @@
+/* 
+    UNIDADES DE MEDIDAS
+    
+    -> ABSOLUTAS
+        px = (pixels) 1/100 polegada *se usa quase sempre o pixel
+        in = (inches/polegadas) 
+        cm/mm = (centímetros / milímetros)
+
+    -> RELATIVAS
+        % = calcula o tamanho relatico ao elemento pai
+        vw = (view width) 1vw é 1% da largura da janela do navegador
+        vh = (view heighht) 1vh é 1% da altura da janela do navegador
+
+        em = é uma unidade relativa ao elemento pai
+        rem = é uma unidade relativa ao elemento raiz
+
+*/
+
