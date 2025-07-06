@@ -1,0 +1,15 @@
+.box {
+    background: #FF1395;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.box2 {
+    background: #FFFF00;
+}
+
+.box3 {
+    background: #0003FF;
+}
