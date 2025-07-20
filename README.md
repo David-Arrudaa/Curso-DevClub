@@ -58,7 +58,7 @@ Projeto de uma página institucional que reforça o uso de Flexbox e a criação
 
 Para visualizar os projetos localmente, basta seguir os passos:
 
-1.  Clone este repositório: 
+1.  Clone este repositório: git@github.com:David-Arrudaa/Curso-DevClub.git
 2.  Navegue até a pasta do projeto desejado.
 3.  Abra o arquivo `index.html` no seu navegador.
 
