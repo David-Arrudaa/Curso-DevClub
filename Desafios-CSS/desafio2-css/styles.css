@@ -71,3 +71,15 @@ p {
     border: none;
     cursor: pointer;
 }
+
+@media (min-width: 1450px) {
+    .container{
+        margin: 0 auto;
+        max-width: 1440px; 
+    }
+    
+    header {
+        margin: 47px auto;
+        max-width: 1440px; 
+    }
+}

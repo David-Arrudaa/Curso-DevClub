@@ -84,3 +84,15 @@ p {
     font-weight: 700;
     cursor: pointer;
 }
+
+@media (min-width: 1450px) {
+    main {
+        margin: 0 auto;
+        max-width: 1440px;
+    }
+
+    .menu {
+        margin: 44px auto;
+        max-width: 1440px;
+    }
+}
