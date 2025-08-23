@@ -32,6 +32,8 @@
 
 .two {
     background-color: #259b11;
+    justify-self: center;
+    align-self: center;
 }
 
 .three {
